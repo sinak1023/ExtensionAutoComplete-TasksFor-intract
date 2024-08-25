@@ -1,50 +1,29 @@
-# 💥 اکستنشن گوگل کروم برای تسک های اینترکت
+---
 
-
+💥 Google Chrome Extension for Interact Tasks
 
 https://github.com/user-attachments/assets/057f948b-9c6a-4473-b0f4-af5c4b599ced
-
-
 
 > ---------------------------------------------
 
 ## License Information
 
-These codes are licensed and any form of copying is strictly prohibited. For detailed information, please refer to the [license file](./LICENSE).
-
-## اطلاعات مجوز
-
-این کدها دارای مجوز می‌باشند و هرگونه کپی‌برداری از آن‌ها به شدت ممنوع است. برای اطلاعات بیشتر، لطفاً به [فایل مجوز](./LICENSE) مراجعه فرمایید.
+These codes are licensed, and any form of copying is strictly prohibited. For detailed information, please refer to the [license file](./LICENSE).
 
 > ---------------------------------------------
 
-## 🔸 با این اکستنشن میتونید تسک های عمومی اینترکت رو خیلی راحت بزنید ، تسک هایی مثل توییتر ، مطالعه ، چک لینک ها 💥 💥 💢 ❗
+## 🔸 With this extension, you can easily complete general Interact tasks such as Twitter, reading, and checking links 💥 💥 💢 ❗
 > ----------------------------------------------
 
-### 🔸 دقت کنید این نسخه که در اینجا براتون قراردادم نمیتونه تسک هایی مثل دیسکورد رو بزنه - با این حال خیلی زیاد به دردتون میخوره
+### 🔸 Please note that this version cannot handle tasks like Discord – However, it will still be highly useful for you.
 
-### 🔸 این اکستنشن هیچ دسترسی از شما نمیخواد ،⚠️ تمامی کد ها قابل مطالعه است پس با تصمیم خودتون از این ابزار استفاده کنید ! ⛔
+### 🔸 This extension does not require any permissions from you. ⚠️ All the code is available for review, so use this tool at your own discretion! ⛔
 ![image](https://github.com/user-attachments/assets/c18a34af-26e2-4bc9-b7a8-da82a657c36a)
 
+## To use this tool ( 🚧 after reviewing its code ), simply go to the `CODE` section, click on Download ZIP, and then extract it.
 
-## برای استفاده از این ابزار ( 🚧 بعد از مطالعه کد های آن ) کافی است از بخش `CODE` گزینه Download ZIP را بزنید ، سپس ان را اکسترکت کنید.
+### Set your browser to developer mode and use the `Load unpacked` option to select the extension folder – Now you can use this tool.
 
-### مرورگر را روی حالت developer mod قرار بدهید و از بخش `Load unpacked` پوشه اکستنشن را انتخاب کنید - حالا میتوانید از این ابزار استفاده کنید.
+## For further support and development, please follow the GitHub account ✔️ and star the released projects ⭐.
 
-
-
-## برای حمایت و توسعه بیشتر ، لطفا اکانت گیتهاب را فالو کنید ✔️ و به پروژه های منتشر شده ستاره بدهید⭐
-
-<div align="center">
-    <p>
-        <a href="Https://x.com/0xOneiros">
-            <small>🆔 twitter </small>  
-        </a>
-        | 
-        <a href="Https://t.me/xOneiros">
-            <small>🆔 telegram </small>  
-        </a>
-    </p>
-</div>
-
-> --------------------------------------------
+---
